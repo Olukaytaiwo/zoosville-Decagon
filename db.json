@@ -1,0 +1,60 @@
+{
+  "animals": [
+    {
+      "name": "Chimpanzee",
+      "specie": "Pan-troglodytes",
+      "clas": "Mammal",
+      "info": "beast",
+      "id": 1
+    },
+    {
+      "name": "Boa",
+      "specie": "Boa-caninus",
+      "clas": "Reptile",
+      "info": "body",
+      "id": 2
+    },
+    {
+      "name": "Mockingbird",
+      "specie": "Nesomimus-trifasciatus",
+      "clas": "Birds",
+      "info": " eggs ",
+      "id": 3
+    },
+    {
+      "name": "Stick-insect",
+      "specie": "Leprocaulinus-vipera",
+      "clas": "Invertibrates",
+      "info": "abdomen",
+      "id": 4
+    },
+    {
+      "name": "kangaroo",
+      "specie": "kagalatius",
+      "clas": "mammal",
+      "info": "goat,anything kicking,animal",
+      "id": 5
+    },
+    {
+      "name": "kangaroo",
+      "specie": "kagalatius",
+      "clas": "mammal",
+      "info": "animal",
+      "id": 6
+    },
+    {
+      "name": "Abuja",
+      "specie": "bororo",
+      "clas": "red",
+      "info": "animal",
+      "id": 7
+    },
+    {
+      "name": "warri",
+      "specie": "brown",
+      "clas": "mammals",
+      "info": "goat",
+      "id": 8
+    }
+  ]
+}
