@@ -1,0 +1,46 @@
+{
+  "animals": [
+    {
+      "name": "Chimpanzee",
+      "specie": "Pan troglodytes",
+      "classes": "Mammal",
+      "info": "Bold, body covered by hair or fur,    warm-blooded,    have a backbone, produce milk",
+      "id": 1
+    },
+    {
+      "name": "Boa",
+      "specie": "Boa caninus",
+      "classes": "Reptile",
+      "info": " body covered by scales, cold-blooded ,   have a backbone ,   most lay hard shelled eggs on land",
+      "id": 2
+    },
+    {
+      "name": "Mockingbird",
+      "specie": "Nesomimus trifasciatus",
+      "classes": "Mystrical",
+      "info": "  body covered by feathers, warm-blooded, have a backbone,  lay eggs ",
+      "id": 3
+    },
+    {
+      "name": "Stick insect",
+      "specie": "Leprocaulinus vipera",
+      "classes": "Invertibrates",
+      "info": " most are small air-breathing animals,   6 legs,  2 antennae, 3 body sections ",
+      "id": 4
+    },
+    {
+      "name": "kangaroo",
+      "specie": "kagalatius",
+      "classes": "mammal",
+      "info": "jumping goat, anything kicking, strong animal",
+      "id": 5
+    },
+    {
+      "name": "Abuja",
+      "specie": "kagalatius",
+      "classes": "Mammal",
+      "info": "beast",
+      "id": 6
+    }
+  ]
+}

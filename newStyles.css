@@ -1,0 +1,204 @@
+html { background: #efefdc; }
+
+		p { color: red; font-size: 1.5em; }
+		article, aside, figure, figcaption, footer, header, hgroup, nav, section,
+		summary { 
+		display: block; 
+		}
+		
+		aside.NavSidebar
+			{
+			position: absolute;
+
+			margin: 0px 60px 10px;
+			margin-bottom: 40px;
+			/* margin-left: 25px; */
+			left: 0px;
+			padding: 5px 15px 0px 15px;
+			width: 200px;
+			/* min-height: 1000px; */
+			min-height: auto;
+			background-color:#eee;
+			font-size: small;
+			}
+		
+		
+		/* Format the <div> that represents the header (as a blue, bordered box). */
+		.Header {
+		background-color: #7695FE;
+		border: thin #336699 solid;
+		padding: 10px;
+		margin: 10px;
+		text-align: center;
+		}
+		/* Format any <h1> headings in the header <div> (that's the article title). */
+		Header h1 {
+		margin: 0px;
+		color: white;
+		font-size: xx-large;
+		text-align: center;
+		}
+		/* Format the subtitle in the header <div>. */
+		.Header .Teaser {
+		margin: 0px;
+		font-weight: bold;
+		}
+		/* Format the byline in the header <div>. */
+		.Header .Byline {
+		font-style: italic;
+		font-size: small;
+		margin: 0px;
+		}
+		
+ 	body {
+		width: 1250px;
+		margin: 20px auto;
+		/* margin-left: 25px; */
+		background: #def;
+		border: 2px solid #779;
+		/* Creates two shadow effects: outer and inner */
+		-webkit-box-shadow: 0 1px 6px #88a, inset 0 -1px 10px white;
+		-moz-box-shadow: 0 1px 6px #88a, inset 0 -1px 10px white;
+		-o-box-shadow: 0 1px 6px #88a, inset 0 -1px 10px white;
+		-ms-box-shadow: 0 1px 6px #88a, inset 0 -1px 10px white;
+		box-shadow: 0 1px 6px #88a, inset 0 -1px 10px white;
+	} 
+	
+	article {
+		
+		width: 990px; 
+		margin: 25px auto;
+		
+		background: #def;
+		border: 2px solid #779; */
+		
+		padding: 20px 20px 10px;
+		margin: 0px 30px 10px;
+		margin-left: 250px;
+		overflow: hidden;
+		background: white;
+		border: 1px solid #dfdfef;
+		/* Creates two shadow effects: outer and inner */
+		-webkit-box-shadow: inset 0 1px 4px #88a, 0 1px 10px white;
+		-moz-box-shadow: inset 0 1px 4px #88a, 0 1px 10px white;
+		-o-box-shadow: inset 0 1px 4px #88a, 0 1px 10px white;
+		-ms-box-shadow: inset 0 1px 4px #88a, 0 1px 10px white;
+		box-shadow: inset 0 1px 4px #88a, 0 1px 10px white;
+	} 
+	div, p {
+		margin: 0;
+		font-size: 30px;
+		color: #889;
+		/* font: italic 12px/1.67em sans-serif; */
+		text-align: center;
+		text-shadow: 1px 1px 1px white;
+	}
+	
+	.PullQuote {
+		float: right;
+		max-width: 300px;
+		border-top: thin black solid;
+		border-bottom: thick black solid;
+		font-size: 30px;
+		line-height: 130%;
+		font-style: italic;
+		padding-top: 5px;
+		padding-bottom: 5px;
+		margin-left: 15px;
+		margin-bottom: 10px;
+		}
+		.PullQuote img {
+		vertical-align: bottom;
+		}
+	
+	
+	.GreyHound  {
+		margin: 0;
+		color: #446;
+		font: italic 12px/1.67em sans-serif;
+		text-align: leftwards;
+		text-shadow: 1px 1px 1px white;
+	}
+	
+	.GreyHound p  {
+		margin: 0;
+		color: #889;
+		font: italic 12px/1.67em sans-serif;
+		text-align: leftwards;
+		text-shadow: 1px 1px 1px white;
+	}
+	
+	/* Format the floating figure box. */
+	.FloatFigure {
+		float: left;
+		margin-left: 5px;
+		margin-top: 5px;
+		margin-right: 2px;
+		margin-bottom: 0px;
+	} 
+	/* Format the figure caption text. */
+	.FloatFigure p {
+		max-width: 200px;
+		font-size: small;
+		font-style: italic;
+		margin-bottom: 5px;
+	}
+	#FatFooter {
+		position: fixed;
+		bottom: 0px;
+		height: 145px;
+		width: 100%;
+		background: #ECD672;
+		border-top: thin solid black;
+		font-size: small;
+		}	
+		
+		
+	
+	mark { 
+	background-color: yellow;
+	color: black;
+	}
+	
+	
+	label {
+	  width: 110px;
+	  display: inline-block;
+	  vertical-align: top;
+	  margin: 6px;
+	}
+	
+	input[type=checkbox] {
+	  width: 20px;
+	}
+
+	input[type=submit] {
+	  width: 150px;
+	  padding: 10px;
+	}
+	
+	body {
+	  font-family: 'Palatino Linotype', serif;
+	  max-width: 600px;
+	  padding: 0px 30px;
+	}
+	
+	fieldset {
+	  margin-bottom: 15px;
+	  padding: 10px;
+	}
+	
+	input, textarea {
+	  width: 249px;
+	}
+
+	textarea {
+	  height: 100px;
+	}
+
+	legend {
+	  padding: 0px 3px;
+	  font-weight: bold;
+	  font-variant: small-caps;
+	}
+	
